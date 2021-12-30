@@ -1,4 +1,4 @@
-module go-i2c
+module github.com/AghostPrj/go-i2c
 
 go 1.17
 
